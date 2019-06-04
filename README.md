@@ -24,9 +24,11 @@ canvas射击小游戏，本小游戏使用面向对象开发和Canvas结合
 
 ## 游戏界面
 游戏初始界面
+
 <img src="http://coding.imweb.io/img/p5/game-start.png">
 
 游戏进行界面
+
 <img src="http://coding.imweb.io/img/p5/game-in.png">
 
 ## 项目开源
